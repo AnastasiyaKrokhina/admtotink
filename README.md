@@ -1,1 +1,1 @@
-# admissiontotinkoff
+# admtotink
